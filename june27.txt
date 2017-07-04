@@ -1,0 +1,5 @@
+####watched google python tutorials day1 part1,2 and 3
+
+####done exercises strings,lists
+
+###created new repository in git for uploading the exercises
