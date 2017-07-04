@@ -1,0 +1,5 @@
+
+
+###Learned about dictionaries and files
+
+###Studied how to create directory using lists
