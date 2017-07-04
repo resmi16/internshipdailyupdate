@@ -1,0 +1,5 @@
+##created a repository  called Think_python .
+
+##studied chapter 6 and 7 about fruitful functions and iterations till 7.6 had an idea about how while operations and iterations work.
+
+##added some programs  to the program repository.

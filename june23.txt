@@ -1,0 +1,3 @@
+
+
+##Studied a little bit about list comprehensions
